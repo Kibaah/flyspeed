@@ -1,0 +1,7 @@
+main: com.jaime.prueba.main
+version: 1.0
+name: OLa K ASE
+commands:
+  Dalepoder:
+    aliases: []
+    description: Mejor commando inventado
